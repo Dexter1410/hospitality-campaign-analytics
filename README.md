@@ -13,7 +13,7 @@ The analysis is based on the provided case study and culminates in a set of data
 
 The analysis was performed on a transactional dataset covering the period from January 1, 2025, to February 1, 2025. The dataset included details on customer transactions, marketing channels, hotel brands, and campaign participation.
 
-*   **[Access the Dataset](./data/anonymized_campaign_data.csv)** (Note: Link to your anonymized CSV file here)
+*   **[Access the Dataset](./Data/Raw-Data.xlsx)**
 
 ## Key Objectives
 

@@ -7,7 +7,7 @@ This project provides a comprehensive analysis of a "Target Campaign" launched i
 The analysis is based on the provided case study and culminates in a set of data-driven recommendations designed to optimize future marketing strategies.
 
 *   **[View the Project Brief](./Case/Project-Overview.pdf)**
-*   **[View the Final Presentation](./Finding_and_Analysis/Final-Presentation.pdf)**
+*   **[View the Final Presentation](./Finding-and-Analysis/Final-Presentation.pdf)**
 
 ## Dataset
 

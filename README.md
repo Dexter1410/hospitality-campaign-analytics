@@ -22,6 +22,7 @@ The analysis was performed on a transactional dataset covering the period from J
 *   **Assess Customer Acquisition**: Analyze the campaign's effectiveness in attracting new versus existing customers.
 *   **Identify Key Drivers**: Pinpoint the top-performing channels and hotel brands.
 *   **Deliver Strategic Recommendations**: Formulate actionable insights to enhance future campaign performance.
+<img width="1393" height="781" alt="Executive-Summary" src="https://github.com/user-attachments/assets/2c20bed6-4dd7-4221-80b6-8b62082f5f57" />
 
 ## Key Findings
 
